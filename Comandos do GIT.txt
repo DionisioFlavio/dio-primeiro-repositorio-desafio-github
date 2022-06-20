@@ -1,0 +1,69 @@
+# Comandos que aprendi no Curso da DIO sobre o GIT/GITHUB que gostaria de anotar
+
+
+
+
+
+Fiz um curso da DIO do GIT/GITHUB e aprendi alguns comandos, que podem ser usados dentro do GITBASH HERE, este curso é sobre criar repositórios para armazenamento e compartilhamento de códigos, podendo ser guardados em diversas linguagens de programação, é um sistema distribuído seguro, onde outros dev ou simpatizantes, podem melhorar seu código. Muito bacana manipular direto pelo GIT BASH, porém tem muitos comandos ainda que devo aprender, mais acabei aprendendo uma pequena base que venho através daqui colocar para sempre me lembrar posteriormente " apesar que tenho as anotações em meu caderno".
+
+
+
+*negrito* GIT OBJETOS 
+
+BLOBS - Objeto (GIT) - Contém metadados (formatações)
+
+TREES - Objetos fundamentais
+
+COMMITS - Aponta p/ Arvores - Parentes - Autor - Mensagem
+
+SHA1 - Refere-se as chaves para não ficar toda hora colocando suas credencias no GIT
+
+
+
+## Comandos
+
+
+
+cd (colocando esse comando, junto com o nome da pasta onde deseja acessar, te leva diretamente para lá)
+
+ls ( List, lista onde você esta)
+
+git status (te atualiza do que foi feito, te mostra o status no momento)
+
+
+
+Criando Repositório 
+
+
+
+Abrir o GitBash ( onde você desejar...Criar uma pasta e abrir direto nela é uma boa)
+
+cd ( com o nome da pasta te leva direto para ela)
+
+mkdir (cria uma pasta dentro dessa outra pasta)
+
+git init 
+
+ls -a ( te mostra arquivos ocultos dento da pasta)
+
+cd.. (voltar 1 níve onde esta)
+
+git add. (adicionar os comandos para validação dentro do seu PC )
+
+git commit  -m ( comita seu desenvolvimento, mandando ele para o servidor do GIT - após o -m * colocar uma mensagem para falar sobre o que foi feito, sempre bom colocar mensagem clara daquilo que se esta fazendo)
+
+git push origin - ( enviar e salvar ele dentro do servidor, sempre fazer esse comando apos comitar, caso contrario não terá atualizado o seu repositório)
+
+git push origin master (não me lembro agora, vai que alguem leia isso e coloque mais codigos que um iniciante possa utilizar ... talvez ate arrume as besteiras que escrevi )
+
+
+
+## Observações
+
+
+
+Bom, gostei muito das explicações do nosso professor do curso da DIO sobre GIT/GITHUB o ilustríssimo Otavio Reis que nos passou um pouco do seu conhecimento, para podermos alavancar os estudos no Bootcamp developer do Santander, onde estou iniciando minha jornada e aprendizado na área de desenvolvimento de sistemas ( estou cursando esse curso no SENAC atualmente), espero em breve ajudar outras pessoas...digo isso ao Flávio do futuro, pois no momento tenho muito chão pela frente, muito aprendizados a conquistar.
+
+Apesar de gostar dos comandos, estou tentando aplicar eles na prática, porém muita coisa ainda prefiro do  jeito tradicional, estou escrevendo direto do TYPORA, outra ferramenta que descobri aqui, e com toda certeza os comando de atualizar os arquivos e enviar para meu repositório serão feitos pelo GITBASH.
+
+Ate mais!!
