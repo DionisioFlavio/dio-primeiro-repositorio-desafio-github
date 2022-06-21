@@ -75,3 +75,11 @@ Ate mais!!
 
 Quis alterar o nome da pasta que fiz o clone, porém deletei ela, tentei clonar novamente, sem sucesso, tentava dar push para enviar os arquivos não consegui...fui la e fiz upload direto do site do GIT...porém é errando que se aprende
 fui la e deletei tudo, clonei novamente e fui tentar upar por aqui no BASH dessa vez, vamo que vamo !!!
+
+
+- # Atualização Recente: OBSERVAÇÂO 3 - SE CHEGOU ATE AQUI LEIA ISSO
+
+Deu certo dessa vez, deletar a pasta acaba que fica sem diretorio, por mais que ela esteja lá, não é possivel dar PUSH, nem clonar novamente. fiz o upload por lá
+e deletei no meu diretorio. Aprendi isso hoje, usei todos os comando pelo bash, criar pastar, atualizar aquivos, navegar por eles, addionar, comitar, enviar para o servidor
+sempre pensei que seria um bicho de sete cabeças, mas començando a entender as funionalidades e gostando cada vez mais, e 1 passo para começar a aprender a programar.
+Feliz por isso. tamo junto - 20/06/2022 21h:07m 
