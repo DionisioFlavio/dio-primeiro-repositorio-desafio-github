@@ -67,3 +67,11 @@ Bom, gostei muito das explicações do nosso professor do curso da DIO sobre GIT
 Apesar de gostar dos comandos, estou tentando aplicar eles na prática, porém muita coisa ainda prefiro do  jeito tradicional, estou escrevendo direto do TYPORA, outra ferramenta que descobri aqui, e com toda certeza os comando de atualizar os arquivos e enviar para meu repositório serão feitos pelo GITBASH.
 
 Ate mais!!
+
+
+
+
+- # Atualização Recente: OBSERVAÇÂO 2 - SE CHEGOU ATE AQUI LEIA ISSO
+
+Quis alterar o nome da pasta que fiz o clone, porém deletei ela, tentei clonar novamente, sem sucesso, tentava dar push para enviar os arquivos não consegui...fui la e fiz upload direto do site do GIT...porém é errando que se aprende
+fui la e deletei tudo, clonei novamente e fui tentar upar por aqui no BASH dessa vez, vamo que vamo !!!
